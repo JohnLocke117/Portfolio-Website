@@ -331,10 +331,10 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   font-variation-settings: "wght" 300;
 }
 
-/* #headline:hover {
-  font-variation-settings: "wght" 500;
+#headline:hover {
+  font-variation-settings: "wght" 360;
   letter-spacing: 1px;
-} */
+}
 
 #headline-border {
   font-family: Dosis;
@@ -352,7 +352,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 
 #trees {
-  width: 100%;
+  /* width: 100%; */
   z-index: 2;
   opacity: 0.8;
 }
@@ -493,26 +493,6 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 
 /* ----------------------------------Skills CSS---------------------------------- */
-/* .frontpg {
-  position: relative;
-  width: 100%;
-  height: 100%;
-  min-height: 115vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.frontpg img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  pointer-events: none;
-} */
-
 .skill {
   padding: 70px 0 0 0;
   position: relative;
@@ -910,12 +890,12 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 
 .expcontainer .box {
   position: relative;
-  width: 320px;
-  height: 390px;
+  width: 280px;
+  height: 400px;
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 30px 56px;
+  margin: 20px 35px;
   transition: 0.7s;
 }
 
@@ -1209,6 +1189,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 
 .footerbg {
   width: 100% !important;
+  height: auto;
   position: absolute;
   z-index: -5;
   opacity: 0.7;
@@ -1229,3 +1210,46 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   letter-spacing: 0.8px;
   transform: translateX(300px) translateY(20px);
 }
+
+
+
+/* .footer {
+  color: white;
+  width: 100vw;
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer p {
+  font-size: 18px;
+  position: relative;
+  padding-right: 1vw;
+  margin-top: 10px;
+}
+
+.footerimg {
+  height: 80px;
+  width: 80px;
+  position: absolute;
+  display: flex;
+  align-self: center;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.footerbg{
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+
+.footer-container{
+  width: 100vw;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  align-content: center;
+} */

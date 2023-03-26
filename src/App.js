@@ -5,7 +5,7 @@ import { Banner } from "./components/Banner";
 import { Skills } from "./components/Skills";
 import { Projects } from "./components/Projects";
 import { Certifications } from './components/Certifications';
-import { Papers } from "./components/Papers";
+// import { Papers } from "./components/Papers";
 import { Experience } from "./components/Experience"; 
 import { Contact } from "./components/Contact";
 import { Footer } from "./components/Footer";
