@@ -3,9 +3,9 @@
   <a href="https://varunarya.vercel.app/" target="_blank">varunarya.vercel.app</a>
 </h2>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ![out1](https://user-images.githubusercontent.com/99555479/227766259-0e729142-d8c9-4791-a744-f21fbbbc57b5.jpg)
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## About:
 
